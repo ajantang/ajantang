@@ -1,3 +1,5 @@
 <h2> My tech stack </h2>
 
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-%23F7DF1C?style=for-the-badge&logo=javascript&logocolor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![VisualStudio](https://img.shields.io/static/v1?label=VisualStudio&color=blue)
+![Unreal4](https://img.shields.io/static/v1?label=VisualStudio&color=blue)
+![Unreal5](https://img.shields.io/static/v1?label=VisualStudio&color=green)
